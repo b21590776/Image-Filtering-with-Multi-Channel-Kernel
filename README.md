@@ -1,5 +1,4 @@
 # Image-Filtering-with-Multi-Channel-Kernel
-<br />
 c++ 17<br />
 opencv version 3.1<br />
 change OpenCV dir in CMakeList<br />
