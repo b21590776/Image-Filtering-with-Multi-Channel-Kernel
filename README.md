@@ -1,6 +1,6 @@
 # Image-Filtering-with-Multi-Channel-Kernel
-
-c++ 17
-opencv version 3.1
-change OpenCV dir in CMakeList
-program takes 1 argument: image path
+<br />
+c++ 17<br />
+opencv version 3.1<br />
+change OpenCV dir in CMakeList<br />
+program takes 1 argument: image path<br />
